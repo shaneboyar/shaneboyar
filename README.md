@@ -51,4 +51,8 @@ I am a Developer based in RVA.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Typescript Basics: Inferences](https://medium.com/@shaneboyar/typescript-basics-inferences-8977a9bbe587?source=rss-a595d027eac6------2)
+- [Let’s Get Moving: An Introduction to React Native Animations — Part 3](https://medium.com/@shaneboyar/react-native-panresponder-tutorial-659790500777?source=rss-a595d027eac6------2)
+- [Let’s Get Moving: An Introduction to React Native Animations — Part 2](https://medium.com/@shaneboyar/react-native-animated-tutorial-8543c9df4530?source=rss-a595d027eac6------2)
+- [Let’s Get Moving: An Introduction to React Native Animations](https://medium.com/@shaneboyar/react-native-animations-intro-a71439e07f70?source=rss-a595d027eac6------2)
 <!-- BLOG-POST-LIST:END -->
