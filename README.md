@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/7648555/153213260-86b00606-2a4c-4d3c-a4ad-6d12cdb89ca3.png" width="200"/>
+  <img src="https://user-images.githubusercontent.com/7648555/153242961-bb9adf78-a381-4782-8ba0-76a0fd868571.png" width="200"/>
+
   <div id="badges">
     <a href="https://www.linkedin.com/in/shaneboyar/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
