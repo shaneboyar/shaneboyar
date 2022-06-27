@@ -8,9 +8,6 @@
     <a href="https://medium.com/@shaneboyar">
       <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://twitter.com/shaneboyar">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=shaneboyar&style=flat-square&color=blue" alt=""/>
   <h1>
