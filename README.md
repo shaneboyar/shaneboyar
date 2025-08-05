@@ -20,13 +20,13 @@
 
 ### 👨‍💻: About Me :
 I am a Developer based in RVA.
-- 🏢 I’m currently a Principal Software Engineer at [Mission Lane](https://missionlane.com/)
+- 🏢 I’m currently at [Mission Lane](https://bigbasinlabs.com/)
 
-- :seedling: Exploring Technical Content Production & Learning to Draw
+- 🚲: I like to go fast on bikes,
 
 - :zap: I also enjoy reading, writing, cooking, baking, tinkering, woodworking, hiking, and goofing off with my family 👱‍♀️ 👶 🐶
 
-- 📆: Let's find some time: [![Coffee Chats](https://img.shields.io/badge/%20-Coffee%20Chats-blue?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://shane-boyar.trycoffeechats.com/?show_calendar=true&view=week)
+- 📆: [Let's find some time to chat](https://calendar.app.google/hWYUTGgpf2qvPrb17)
 
 ---
 
