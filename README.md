@@ -22,11 +22,11 @@
 I am a Developer based in RVA.
 - 🏢 I’m currently building things at [Big Basin Labs](https://bigbasinlabs.com/)
 
-- 🚲: I like to go fast on bikes,
+- 🚴 I like to go fast on bikes,
 
-- :zap: I also enjoy reading, writing, cooking, baking, tinkering, woodworking, hiking, and goofing off with my family 👱‍♀️ 👶 🐶
+- ⚡ I also enjoy reading, writing, cooking, baking, tinkering, woodworking, hiking, and goofing off with my family 👱‍♀️ 👶 🐶
 
-- 📆: [Let's find some time to chat](https://calendar.app.google/hWYUTGgpf2qvPrb17)
+- 📆 [Let's find some time to chat](https://calendar.app.google/hWYUTGgpf2qvPrb17)
 
 ---
 
