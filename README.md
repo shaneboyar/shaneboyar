@@ -20,7 +20,7 @@
 
 ### 👨‍💻: About Me :
 I am a Developer based in RVA.
-- 🏢 I’m currently at [Mission Lane](https://bigbasinlabs.com/)
+- 🏢 I’m currently building things at [Big Basin Labs](https://bigbasinlabs.com/)
 
 - 🚲: I like to go fast on bikes,
 
